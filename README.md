@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **HTML, CSS, C**
 
-- 📫 How to reach me **ankitchowdhury.cse2@gmail.com**
+- 📫 Reach me at **ankitchowdhury.cse2@gmail.com**
 
 
 <h3 align="left">Languages and Tools:</h3>
